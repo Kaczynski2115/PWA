@@ -1,0 +1,20 @@
+{
+    "name": "blok o aj 1",
+    "short_name": "AJ1APP",
+    "theme_color": "rgba(189,12,12,0)",
+    "background_color": "#f32147",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA/",
+    "icons" : [
+        {
+            "src" : "./AJ1.png",
+            "sizes" :"512x512",
+            "type" : "image/png"
+
+
+         }
+
+    ]
+  }
